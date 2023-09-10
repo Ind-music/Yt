@@ -4,7 +4,7 @@ from Royalkifeelings.callmusic.config import API_HASH, API_ID, BOT_TOKEN, OWNER_
 from Royalkifeelings.plugins import ALL_PLUGINS
 
 bot = Client(
-    "kakashi",
+    "Royalkifeelings",
     API_ID,
     API_HASH,
     bot_token=BOT_TOKEN,
