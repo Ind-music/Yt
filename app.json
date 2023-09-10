@@ -1,5 +1,5 @@
 {
-    "name": "KaaL Music Repo",
+    "name": "kakashi Music Repo",
     "description": "A VC Player Bot for telegram videochats, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "",
     "keywords": [
@@ -55,7 +55,7 @@
               "url": "heroku/nodejs"
           },
           {
-              "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+              "url": "https://github.com/Leharmusicbot/heroku-buildpack-ffmpeg-latest.git"
           }
       ],
       "stack": "container"
