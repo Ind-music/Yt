@@ -10,14 +10,14 @@ bot = Client(
     bot_token=BOT_TOKEN,
 )
 
-kakashi = Client(
+Royalboyamit = Client(
     api_id=API_ID,
     api_hash=API_HASH,
     session_name=SESSION_NAME,
 )
 
 user = PyTgCalls(
-    kakashi,
+    Royalboyamit,
     cache_duration=100,
     overload_quiet_mode=True,
 )
