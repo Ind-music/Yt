@@ -22,18 +22,18 @@ user = PyTgCalls(
     overload_quiet_mode=True,
 )
 
-call_py = PyTgCalls(kakashi, overload_quiet_mode=True)
+call_py = PyTgCalls(Royalboyamit, overload_quiet_mode=True)
 
-OWNER_NAME = "kakashi_mina"
+OWNER_NAME = "Royal_boy_amit"
 F_OWNER = OWNER_ID[0]
 
-with Client("kakashi", API_ID, API_HASH, bot_token=BOT_TOKEN) as app:
+with Client("Royalkifeelings", API_ID, API_HASH, bot_token=BOT_TOKEN) as app:
     x = app.get_me()
     BOT_ID = x.id
     BOT_NAME = x.first_name + (x.last_name or "")
     BOT_USERNAME = x.username
     BOT_MENTION = x.mention
     BOT_DC_ID = x.dc_id
-with kakashi as ass:
+with Royalboyamit as ass:
     getass = ass.get_me()
     ASSISTANT_USERNAME = getass.username
