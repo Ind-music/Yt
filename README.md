@@ -65,9 +65,9 @@ python3 -m Royalkifeelings  # Run the bot
 ### Special Credits 💖
 - [𝗧𝗵𝗲 𝗥𝗲𝗮𝗹 𝗦𝘁𝗮𝗿'™](https://github.com/Leharmusicbot/Yt): 
 
-- [𝗥𝗼𝘆𝗮𝗹𝗞𝗶𝗙𝗲𝗲𝗹𝗶𝗻𝗴𝘀 𝟮.𝟬](https://t.me/kittu_support) `𝗢𝘂𝗿 𝗖𝗵𝗮𝗻𝗻𝗲𝗹`
+- [kittu_support](https://t.me/kittu_support) `𝗢𝘂𝗿 𝗖𝗵𝗮𝗻𝗻𝗲𝗹`
 
-- [𝗔𝗱𝗶𝘁𝘆𝗮𝗛𝗮𝗹𝗱𝗲𝗿](https://t.me/Betuji_baccha) `𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿`
+- [Betuji_baccha](https://t.me/Betuji_baccha) `𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿`
 
 ### Support & Updates 🎑
 <a href="https://t.me/Betuji_baccha"><img src="https://img.shields.io/badge/Join-Group%20Support-black.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/kittu_support"><img src="https://img.shields.io/badge/Join-Updates%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
